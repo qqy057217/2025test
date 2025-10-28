@@ -1,0 +1,9 @@
+# 忽略编译输出
+*.exe
+*.o
+*.out
+*.obj
+
+# 忽略IDE文件
+.vscode/
+*.code-workspace
